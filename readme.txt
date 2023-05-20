@@ -8,5 +8,5 @@ In the next 15 messages, I will give you a question and 4 options. Can you just 
 5- run the python file
 6-copie and paste the quition and the anwsers from temp.txt file to chat gpt 
 7-and done just select the right awnser 
-8-reapete 15 times
+8-reapet 15 times
  and boom top 5% :)
